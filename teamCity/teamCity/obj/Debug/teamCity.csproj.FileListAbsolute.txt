@@ -1,0 +1,6 @@
+D:\Projects\HelloTeamCity\helloTeamCity\teamCity\teamCity\bin\Debug\teamCity.exe.config
+D:\Projects\HelloTeamCity\helloTeamCity\teamCity\teamCity\bin\Debug\teamCity.exe
+D:\Projects\HelloTeamCity\helloTeamCity\teamCity\teamCity\bin\Debug\teamCity.pdb
+D:\Projects\HelloTeamCity\helloTeamCity\teamCity\teamCity\obj\Debug\teamCity.csprojResolveAssemblyReference.cache
+D:\Projects\HelloTeamCity\helloTeamCity\teamCity\teamCity\obj\Debug\teamCity.exe
+D:\Projects\HelloTeamCity\helloTeamCity\teamCity\teamCity\obj\Debug\teamCity.pdb
