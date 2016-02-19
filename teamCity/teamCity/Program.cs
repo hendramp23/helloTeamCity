@@ -10,7 +10,7 @@ namespace teamCity
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello team city is a simple code to test team city auto build");
+            Console.WriteLine("hello team city is a simple code to test team city auto build")
             Console.ReadKey();
         }
     }
